@@ -1,0 +1,27 @@
+{
+  "name": "parents-attentifs-44.fr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "wintersmith preview",
+    "build": "wintersmith build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toutpt/parents-attentifs-44.fr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toutpt/parents-attentifs-44.fr/issues"
+  },
+  "homepage": "https://github.com/toutpt/parents-attentifs-44.fr#readme",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "typogr": "0.6.x",
+    "underscore": "^1.9.1"
+  },
+  "private": true
+}
