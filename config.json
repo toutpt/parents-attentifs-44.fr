@@ -6,6 +6,7 @@
     "description": "Réseau des collectifs de parents de Loire-Atlantique"
   },
   "plugins": [
+    "./plugins/paginator.coffee"
   ],
   "require": {
     "moment": "moment",
