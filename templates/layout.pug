@@ -1,7 +1,7 @@
 doctype html
 block vars
   - var bodyclass = null;
-html(lang='en')
+html(lang='fr')
   head
     block head
       meta(charset='utf-8')
@@ -21,6 +21,12 @@ html(lang='en')
             h1
               a(href=locals.url)= locals.name
             p.description= locals.description
+            nav.nav
+              a.nav__item(href='/articles/actions') Actions
+              a.nav__item(href='/articles/documents') Documents
+              a.nav__item(href='/articles/collectifs') Collectifs
+              a.nav__item(href='/articles/sites-amis') Partenaires
+              a.nav__item(href='/articles/contact') Contact
     div#content
       div.content-wrap
         block content

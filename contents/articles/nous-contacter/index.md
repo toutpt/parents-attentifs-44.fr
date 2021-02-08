@@ -7,7 +7,7 @@ rubrique: contact
 ---
 
 Des idées d'actions, de communication, de rencontres, des remarques ?
-Voici l'adresse à utiliser sans modération : contact@parents-attentifs-44.fr 
 
+Voici l'adresse à utiliser sans modération : [contact@parents-attentifs-44.fr](mailto:contact@parents-attentifs-44.fr)
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_556977?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_556977">Voir en plein écran</a></p>02
+Vous pouvez egalement nous retrouver sur le réseaux social Télégram en suivant [ce lien](https://t.me/joinchat/HvUCfTTbEYcrn-1L?fbclid=IwAR2DrDYLN4Qizt9_5XDrzYE0n3Pop5R9iWeRuM52NNtu2H1e_e0Y20UiQac).

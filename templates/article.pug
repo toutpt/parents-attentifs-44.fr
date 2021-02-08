@@ -8,16 +8,18 @@ block prepend title
   | #{ page.title + ' - '}
 
 block header
-  include author
-  h1= page.title
-  p.author
-    | #{ 'Ecrit par ' }
-    +author(page.metadata.author)
+  h1
+    a(href="/")= locals.name
+  p.description= locals.description
+  nav.nav
+    a.nav__item(href='/articles/actions') Actions
+    a.nav__item(href='/articles/documents') Documents
+    a.nav__item(href='/articles/collectifs') Collectifs
+    a.nav__item(href='/articles/sites-amis') Partenaires
+    a.nav__item(href='/articles/nous-contacter') Contact
 
 block content
   article.article
+    h1= page.title
     section.content!= typogr(page.html).typogrify()
 
-block prepend footer
-  div.nav
-    a(href=contents.index.url) &laquo; Full blog
