@@ -9,17 +9,6 @@
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>Collectifs</title>
-      <link>http://parents-attentifs-44.fr/articles/collectifs/</link>
-      <pubDate>Sun, 02 Feb 2020 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://parents-attentifs-44.fr/articles/collectifs/</guid>
-      <author></author>
-      <description>&lt;p&gt;Bienvenue sur l’annuaire des collectifs de Loire-Atlantique.&lt;/p&gt;
-&lt;p&gt;Le point de ces collectifs ? S’interroger et dénoncer l’obligation du port du masque à l’école à partir de 6 ans.&lt;/p&gt;
-&lt;p&gt;Créer du lien, informer, communiquer et agir sont les missions de notre réseau. &lt;/p&gt;
-&lt;iframe width=&quot;100%&quot; height=&quot;300px&quot; frameborder=&quot;0&quot; allowfullscreen src=&quot;//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_556977?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=undefined&amp;captionBar=false&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_556977&quot;&gt;Voir en plein écran&lt;/a&gt;&lt;/p&gt;02</description>
-    </item>
-    <item>
       <title>Sites amis</title>
       <link>http://parents-attentifs-44.fr/articles/sites-amis/</link>
       <pubDate>Sun, 02 Feb 2020 01:00:00 +0100</pubDate>
@@ -32,6 +21,15 @@ Enfance et Libertés :
 Tout va bien 44 : 
 Manifeste libertés : &lt;/p&gt;
 &lt;iframe width=&quot;100%&quot; height=&quot;300px&quot; frameborder=&quot;0&quot; allowfullscreen src=&quot;//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_556977?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=undefined&amp;captionBar=false&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_556977&quot;&gt;Voir en plein écran&lt;/a&gt;&lt;/p&gt;02</description>
+    </item>
+    <item>
+      <title>Documents</title>
+      <link>http://parents-attentifs-44.fr/articles/documents/</link>
+      <pubDate>Sun, 02 Feb 2020 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://parents-attentifs-44.fr/articles/documents/</guid>
+      <author></author>
+      <description>&lt;p&gt;Listes des documents reference&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>Actions en cours</title>
@@ -57,13 +55,15 @@ Manifeste libertés : &lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Documents</title>
-      <link>http://parents-attentifs-44.fr/articles/documents/</link>
+      <title>Collectifs</title>
+      <link>http://parents-attentifs-44.fr/articles/collectifs/</link>
       <pubDate>Sun, 02 Feb 2020 01:00:00 +0100</pubDate>
-      <guid isPermaLink="true">http://parents-attentifs-44.fr/articles/documents/</guid>
+      <guid isPermaLink="true">http://parents-attentifs-44.fr/articles/collectifs/</guid>
       <author></author>
-      <description>&lt;p&gt;Listes des documents reference&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Bienvenue sur l’annuaire des collectifs de Loire-Atlantique.&lt;/p&gt;
+&lt;p&gt;Le point de ces collectifs ? S’interroger et dénoncer l’obligation du port du masque à l’école à partir de 6 ans.&lt;/p&gt;
+&lt;p&gt;Créer du lien, informer, communiquer et agir sont les missions de notre réseau. &lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;300px&quot; frameborder=&quot;0&quot; allowfullscreen src=&quot;//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_556977?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=undefined&amp;captionBar=false&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_556977&quot;&gt;Voir en plein écran&lt;/a&gt;&lt;/p&gt;02</description>
     </item>
   </channel>
 </rss>
