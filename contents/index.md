@@ -5,6 +5,8 @@ date: 2012-02-02
 template: article.pug
 ---
 
+# Bienvenue !
+
 Sur le réseau départemental des collectifs de Loire-Atlantique.
 
 Ce site référence l’ensemble des collectifs de parents du département interrogeant l’obligation du port du masque à l’école à partir de 6 ans.
