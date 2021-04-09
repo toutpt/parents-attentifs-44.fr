@@ -18,15 +18,16 @@ html(lang='fr')
       div.content-wrap
         block header
           div.logo
-            h1
-              a(href=locals.url)= locals.name
+            a.logo-link(href='/')
+              img(src='/logo.png', width='150px')
+            a.title(href='/')= locals.name
             p.description= locals.description
             nav.nav
               a.nav__item(href='/articles/actions') Actions
               a.nav__item(href='/articles/documents') Documents
               a.nav__item(href='/articles/collectifs') Collectifs
               a.nav__item(href='/articles/sites-amis') Partenaires
-              a.nav__item(href='/articles/contact') Contact
+              a.nav__item(href='/articles/nous-contacter') Contact
     div#content
       div.content-wrap
         block content
