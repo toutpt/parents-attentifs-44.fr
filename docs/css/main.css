@@ -88,11 +88,15 @@ hr {
   margin: 1em 0 5em;
 }
 
-.header h1 {
-  font-size: 2.6em;
-  text-align: center;
+.header .title {
+  font-size: 2.5em;
+  text-align: left;
   font-weight: 700;
   margin: 0;
+}
+
+.header .logo-link {
+  float: left;
 }
 
 .header a, .header a:hover {
@@ -111,9 +115,9 @@ hr {
 }
 
 .header .description {
-  font-size: 1.2em;
+  font-size: 1em;
   font-style: italic;
-  text-align: center;
+  text-align: left;
   margin-top: -0.3em;
 }
 
