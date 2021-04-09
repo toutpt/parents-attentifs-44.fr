@@ -12,5 +12,4 @@ Le point de ces collectifs ? S'interroger et dénoncer l’obligation du port du
 
 Créer du lien, informer, communiquer et agir sont les missions de notre réseau. 
 
-
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_556977?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_556977">Voir en plein écran</a></p>02
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_591412?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/collectifs-de-parents-loire-atlantique_591412">Voir en plein écran</a></p>

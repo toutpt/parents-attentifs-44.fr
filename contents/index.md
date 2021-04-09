@@ -7,7 +7,7 @@ template: article.pug
 
 <img src="tract.png"
      alt="tract"
-     width="400" style="float: left; margin-right: 20px; margin-bottom: 20px;" />
+     style="float: left; margin-right: 20px; margin-bottom: 20px; width:400px" />
 
 Sur le réseau départemental des collectifs de Loire-Atlantique.
 
